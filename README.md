@@ -11,8 +11,6 @@
 
 
 
-## Hi there 👋
-
 
 - 🔭 I’m currently working on building small projects to strengthen my full-stack skills.
 - 🌱 I’m currently learning  HTML, CSS and JavaScript diving deeper into web development!
